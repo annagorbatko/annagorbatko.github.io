@@ -1,0 +1,32 @@
+body {
+    background-color:#9ACD32;
+}
+body{
+    font-family:"Helvetica" , "Arial",sans serif;
+
+}
+#flex {
+    display : flex;
+    flex-direction:row;
+}
+main {
+    background-color: #FFFFE0 ;
+}
+nav {
+    background-color:#F0E68C;
+}
+h1 {
+    color:chocolate;
+}
+h2 {
+    color:chocolate;
+}
+h3{
+    color:chocolate;
+}
+.avatar{
+    border-radius: 50%;
+}
+.avatar-container {
+  text-align: center;
+}
